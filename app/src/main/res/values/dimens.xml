@@ -1,5 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Default screen margins, per the Android Design guidelines. -->
+    <!-- Default screen margins as per Material Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_4_horizontal_margin">4dp</dimen>
+    <dimen name="activity_double_horizontal_margin">32dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_4_vertical_margin">4dp</dimen>
+    <dimen name="activity_double_vertical_margin">32dp</dimen>
+    <dimen name="activity_margin_zero">0dp</dimen>
+
+    <!-- Default text sizes for Material Design-->
+    <dimen name="button_txt_size">14sp</dimen>
+    <dimen name="menu_txt_size">14sp</dimen>
+    <dimen name="caption_txt_size">12sp</dimen>
+    <dimen name="body1_txt_size">14sp</dimen>
+    <dimen name="body2_txt_size">13sp</dimen>
+    <dimen name="subhead_txt_size">16sp</dimen>
+    <dimen name="title_txt_size">20sp</dimen>
+    <dimen name="headline_txt_size">24sp</dimen>
+    <dimen name="display1_txt_size">34sp</dimen>
+    <dimen name="display2_txt_size">45sp</dimen>
+    <dimen name="display3_txt_size">56sp</dimen>
+    <dimen name="display4_txt_size">112sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
 </resources>
